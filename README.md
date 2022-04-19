@@ -1,2 +1,2 @@
 # hello-MetaBOX
-All connect MetaBOX into Metaverse.
+Everything is connect to MetaBOX into Metaverse.
