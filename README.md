@@ -1,2 +1,2 @@
-# hello-MetaBOX
-Everything is connect to MetaBOX into Metaverse.
+# hello-MXBOX
+Everything is connect to MXBOX into Metaverse.
